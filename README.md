@@ -7,4 +7,4 @@ nasm -f elf64 -o hello.o  hello.asm
 ld -o hello hello.o && ./hello
 ```
 
- ¯\_(ツ)_/¯
+ ¯\\_(ツ)_/¯
